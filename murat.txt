@@ -18,3 +18,6 @@ bir satir daha ekledim.
 7777777 - ugur branch ile başladım 
 8888888
 birinci ekle #8 için ekledim
+
+0101010  --> mybranch1 geçtim
+111111 ekledim
