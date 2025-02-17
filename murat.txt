@@ -17,3 +17,4 @@ bir satir daha ekledim.
 6666666
 7777777 - ugur branch ile başladım 
 8888888
+birinci ekle #8 için ekledim
