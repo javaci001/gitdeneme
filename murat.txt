@@ -21,3 +21,4 @@ birinci ekle #8 için ekledim
 
 0101010  --> mybranch1 geçtim
 111111 ekledim
+222222
