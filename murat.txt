@@ -22,4 +22,11 @@ birinci ekle #8 için ekledim
 0101010  --> mybranch1 geçtim
 111111 ekledim
 222222
+
 ders için
+dosyada degisiklik yaptim
+dosyada degisiklik yaptim
+dosyada degisiklik yaptim
+dosyada degisiklik yaptim
+dosyada degisiklik yaptim
+dosyanın sonuna mutluluğun resmini çizebildim. yaptım yani.
